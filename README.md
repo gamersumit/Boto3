@@ -1,1 +1,1 @@
-# Boto3 : dynamo db
+# Boto3 lib : dynamo db
